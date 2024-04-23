@@ -1,0 +1,27 @@
+-- Vitor Negredo --
+
+INSERT INTO `alunos` VALUES 
+(default,'Oswaldo Brandão','2006-09-05','M', 89.0, 1.82,'Brasil'),
+(default,'Abel Ferreira','2007-11-15','M',75.0, 1.76, 'Brasil'),
+(default,'Luiz Felipe Scolari','2007-04-07','M', 78.0, 1.82,'Brasil'),
+(default,'Gustavo Gomez', '2007-08-22','M', 75.0, 1.84,'Brasil'),
+(default,'Richard Rios', '2008-09-14','M', 74.0, 1.73, 'Brasil'),
+(default,'Eduardo Gomes', '2008-01-01','M', 75.0, 1.74, 'Brasil'),
+(default,'Roberto Carlos', '2008-09-09','M', 81.0, 1.65, 'Brasil'),
+(default,'Marcos', '2007-05-09','M', 91.0, 1.85, 'Brasil'),
+(default,'Ademir', '2007-04-10','M', 81.0, 1.72, 'Brasil'),
+(default,'Rivaldo', '2007-03-22','M', 81.0, 1.65, 'Brasi');
+
+-- Nicolas Reis --
+
+INSERT INTO `alunos` VALUES 
+(default,'Manuel Neuer','2006-09-05','M', 89.0, 1.82,'Alemanha'),
+(default,'Kvaratskhelia','2007-11-15','M',75.0, 1.76, 'Geórgia'),
+(default,'Cássio','1987-04-06','M', 78.0, 1.96,'Brasil'),
+(default,'Alisha Lehmann', '2007-08-22','F', 75.0, 1.84,'Suiça'),
+(default,'Rodrigo Garro', '2008-09-14','M', 74.0, 1.73, 'Argentina'),
+(default,'Ángel Romero', '2008-01-01','M', 75.0, 1.74, 'Paraguai'),
+(default,'Sócrates', '2004-12-04','M', 81.0, 1.77, 'Brasil'),
+(default,'Zlatan Ibrahimović', '2007-05-09','M', 91.0, 1.95, 'Suécia'),
+(default,'Lev Yashin', '2007-04-10','M', 81.0, 1.89, 'Russia'),
+(default,'Ronaldo Nazário', '1976-09-18','M', 104.0, 1.83, 'Brasi');
